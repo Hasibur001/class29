@@ -1,0 +1,168 @@
+*{
+    box-sizing: border-box;
+}
+.full-website{
+    padding: 0;
+    margin: auto;
+}
+img{
+    max-width: 100%;
+  }
+.menu{
+    background-color: #22c3a3;
+    color: white;
+    width: 100%;
+}
+.lfwf{
+display: inline-block;
+vertical-align: middle;
+padding-left: 50px;
+font-weight: bold;
+width: 40%;
+}
+.menu1{
+    width: 58%;
+    display: inline-block;
+}
+.menu1 ul {
+list-style: none;
+text-align: right;
+vertical-align: middle;
+
+}
+.menu1 ul li{
+    display: inline-block;
+    text-align: right;
+    padding: 0 7px;
+    
+}
+.menu1 ul li a{
+    text-decoration: none;
+    color: white;
+    
+}
+/* img-section */
+.img-section{
+    background-image: url(https://i.postimg.cc/0QBRKrwx/header-bg01.jpg);
+    background-position: center;
+    background-size: cover;
+   padding: 200px 0;
+       color:white;
+    text-align: center;
+}
+.img-section h1{
+   
+    font-size: 50px;
+}
+.img-section a{
+    text-decoration: none;
+    color: white;
+        border: 2px solid white;
+        display: inline-block;
+       border-radius: 6px;
+       padding: 10px 30px;
+       margin-top: 30px;
+}
+/* section3 */
+.section3{
+    text-align: center;
+    padding: 40px 0;
+   
+}
+.h2{
+    padding-top: 60px;
+
+}
+.icon-item{
+    padding-top: 90px;
+  
+  
+}
+.icon-item h2{
+    margin-bottom: 6px;
+}
+.icon{
+    background-color: white;
+      width: 23%;
+    text-align: center;
+    display: inline-block;
+    margin-right: 2%;
+}
+.icon:nth-child(4){
+    margin-right: 0;
+}
+.tv{
+    font-size: 35px;
+   color: #22c3a3;
+   padding-bottom: 12px;
+}
+ /* section 4 */
+.section4{
+    border-top: 5px solid #22c3a3;
+    text-align: center;
+    margin-top: 35px;
+}
+.section4 h2{
+    padding-top: 50px;
+}
+.img2 img{
+    max-width: 100%;
+       display: inline-block;
+    text-align: center;
+}
+.img2{
+    display: inline-block;
+    padding-right: 25px;
+    padding-top: 25px;
+ 
+}
+.text{
+    display: inline-block;
+    width: 700px;
+    text-align: left;
+line-height: 23px;
+}
+.text h2{
+    padding-top: 0;
+}
+/* section5 */
+.section5{
+    background-color: #f6f6f6;
+  padding: 100px 0;
+    text-align: center;
+ }
+  .section5 h2{
+    padding-top: 60px;
+  }
+.logo1{
+    display: inline-block;
+    height: 150px;
+    width: 31%;
+  margin-left: 2%;
+ 
+}
+
+.logo-only{
+padding: 60px 0px;
+}
+.logoc{
+    color: #22c3a3;
+}
+/* footer */
+.footer{
+    background-color:#22c3a3;
+    text-align: center;
+    color: white;
+    padding: 4% 0;
+    margin-top: -10px;
+}
+.footer div{
+    display: inline-block;
+    padding: 28px 15px;
+}
+.footer2{
+    background-color: rgb(49, 45, 45);
+    color: rgb(124, 124, 117);
+    text-align: center;
+   padding: 5% 0;
+}
